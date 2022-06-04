@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">NestedRecyclerview</string>
+    <string name="location_permission_txt"> This app needs to access your accurate location inorder to the smooth working of the app </string>
+    <string name="location_permission_txt1"> This app needs to access your accurate location inorder to the smooth working of the app </string>
+
+
+</resources>
